@@ -1,0 +1,10 @@
+//Before moving on to Module 1, show us what you have learned
+//
+// 1. Create a class called ModuleCheckpoint
+// 2. Add a main method
+// 3. Use JOptionPane to pop up a dialog to tell the user that they are an amazing programmer
+// HINT: You will need to import javax.swing.JOptionPane 
+// 4. Use JOptionPane to pop up a dialog to ask the user for their favorite color and put their 
+// answer into a String variable
+// 5. Tell the user that they should wear a shirt that is <favorite color> 
+// 
